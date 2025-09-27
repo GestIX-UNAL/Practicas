@@ -1,7 +1,17 @@
 # Práctica 1: Calibración de Cámaras con Tablero de Ajedrez
 
-**Estudiante:** Luis Alfonso Pedraos Suarez  
-**Correo:** lpedraos@unal.edu.co  
+**Estudiante:** 
+- Luis Alfonso Pedraos Suarez
+- Anderson David Morales Chila
+- Sergio Alejandro Nova Perez
+- Fredy Andres Rosero Cristancho
+
+**Correo:** 
+- lpedraos@unal.edu.co
+- amoralesch@unal.edu.co
+- snovap@unal.edu.co
+- faroseroc@unal.edu.co
+
 **Fecha:** 20 de Septiembre de 2025
 
 ## Resumen de la Implementación
@@ -45,6 +55,8 @@ Coeficientes de distorsión:
 - Interfaz interactiva con opciones de guardado
 - Visualización lado a lado para análisis de diferencias
 
+![Imagen de vídeo real](image.png)
+
 ### Cumplimiento de Objetivos
 
 ✅ **Calibrar cámara con imágenes capturadas**  
@@ -68,3 +80,5 @@ La comparación entre la imagen original y la corregida permite observar:
 ### Conclusión
 
 La práctica se completó exitosamente con una calibración de alta precisión, demostrada por el bajo error de reproyección obtenido. El sistema permite tanto corrección de imágenes estáticas como procesamiento en tiempo real.
+
+Además, dado que las webcams y cámaras de celular modernas suelen venir con lentes ya bien corregidos de fábrica, la distorsión readial/tangencial es muy baja, entonces, al corregir, no se nota casi la distorsión.
