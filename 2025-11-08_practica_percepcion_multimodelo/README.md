@@ -31,10 +31,15 @@
 
 ## Setup
 
+### Requerimientos
+- Python 3.9 - 3.11
+- PyEnv
+
 ### Entorno virtual de python
 ```bash
-python -m venv venv
-source venv/bin/activate  # En Windows usa `venv\Scripts\activate`
+pyenv install 3.11
+pyenv virtualenv 3.11 venv
+pyenv activate venv
 pip install -r requirements.txt
 ```
 
