@@ -29,6 +29,16 @@
 * Tipo de prompt (punto/caja)
 * Versión del checkpoint
 
+## Setup
+
+### Entorno virtual de python
+```bash
+python -m venv venv
+source venv/bin/activate  # En Windows usa `venv\Scripts\activate`
+pip install -r requirements.txt
+```
+
+
 ## Métricas
 * Latencia por etapa
 * IoU de máscaras
