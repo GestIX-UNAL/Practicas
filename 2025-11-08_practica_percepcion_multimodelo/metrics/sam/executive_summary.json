@@ -1,0 +1,21 @@
+{
+  "total_yolo_detections": 17,
+  "successful_masks": 17,
+  "success_rate": 1.0,
+  "mean_sam_score": 0.9495281892664292,
+  "mean_yolo_confidence": 0.5225285133894753,
+  "mean_coverage_ratio": 0.5770269257351034,
+  "mean_setup_time_ms": 121383.13056440915,
+  "mean_predict_time_ms": 185.18865809721106,
+  "classes_processed": [
+    "laptop",
+    "cup",
+    "knife",
+    "person",
+    "dining table",
+    "bowl",
+    "spoon",
+    "bottle",
+    "oven"
+  ]
+}

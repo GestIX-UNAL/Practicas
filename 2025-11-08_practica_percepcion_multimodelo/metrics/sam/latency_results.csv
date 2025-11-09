@@ -1,0 +1,35 @@
+stage,time_ms,detection
+setup,119399.70827102661,img2.jpeg_laptop
+prediction,272.6254463195801,img2.jpeg_laptop
+setup,117000.13542175293,img2.jpeg_cup
+prediction,171.29802703857422,img2.jpeg_cup
+setup,129169.00658607483,img2.jpeg_knife
+prediction,201.28417015075684,img2.jpeg_knife
+setup,119900.14886856079,img2.jpeg_person
+prediction,182.11698532104492,img2.jpeg_person
+setup,126133.90827178955,img2.jpeg_dining table
+prediction,193.62568855285645,img2.jpeg_dining table
+setup,119775.0015258789,img2.jpeg_cup
+prediction,169.18444633483887,img2.jpeg_cup
+setup,119610.52989959717,img2.jpeg_knife
+prediction,166.8529510498047,img2.jpeg_knife
+setup,131368.08490753174,img2.jpeg_bowl
+prediction,179.12673950195312,img2.jpeg_bowl
+setup,118870.11218070984,img2.jpeg_spoon
+prediction,176.11956596374512,img2.jpeg_spoon
+setup,117595.57628631592,img2.jpeg_bowl
+prediction,179.34370040893555,img2.jpeg_bowl
+setup,117994.78912353516,img3.jpeg_bottle
+prediction,164.76798057556152,img3.jpeg_bottle
+setup,117133.42189788818,img3.jpeg_oven
+prediction,167.73080825805664,img3.jpeg_oven
+setup,134537.14156150818,img4.jpeg_bowl
+prediction,172.44219779968262,img4.jpeg_bowl
+setup,119975.2881526947,img4.jpeg_cup
+prediction,166.8713092803955,img4.jpeg_cup
+setup,119150.92825889587,img5.jpeg_cup
+prediction,161.45777702331543,img5.jpeg_cup
+setup,118141.76440238953,img5.jpeg_spoon
+prediction,174.4697093963623,img5.jpeg_spoon
+setup,117757.67397880554,img5.jpeg_cup
+prediction,248.88968467712402,img5.jpeg_cup
